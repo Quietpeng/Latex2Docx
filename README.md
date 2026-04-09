@@ -2,7 +2,8 @@
 
 ## 项目简介
 
-本工具面向“多文件/图片/表格/参考文献/复杂宏”的 LaTeX 项目，目标是把内容转换为 **可编辑的 DOCX**，并尽可能接近 `xelatex → biber → xelatex ×2` 的排版效果。
+本工具面向“多文件/图片/表格/参考文献/复杂宏”的 LaTeX 项目，目标是把内容转换为 **可编辑的 DOCX**，并尽可能接近 `xelatex → biber → xelatex ×2` 的排版效果。对于的skill已建立在[Latex2DocxSkill
+](https://github.com/Quietpeng/Latex2DocxSkill.git)
 
 ### 核心能力（当前实现）
 
